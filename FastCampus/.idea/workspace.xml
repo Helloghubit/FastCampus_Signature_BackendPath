@@ -20,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Helloghubit"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Helloghubit&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Helloghubit/FastCampus_Signature_BackendPath.git",
-    "accountId": "b2ed5b8d-7ab5-4b94-ad8a-9fd4769331dd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Helloghubit/FastCampus_Signature_BackendPath.git&quot;,
+    &quot;accountId&quot;: &quot;b2ed5b8d-7ab5-4b94-ad8a-9fd4769331dd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -44,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.FindAPI.executor": "Run",
     "Application.FourArithmetic.executor": "Run",
     "Application.Operator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1717516927466</updated>
       <workItem from="1717516928468" duration="927000" />
-      <workItem from="1717550815156" duration="12881000" />
+      <workItem from="1717550815156" duration="13443000" />
+      <workItem from="1719996940036" duration="2356000" />
     </task>
     <servers />
   </component>
