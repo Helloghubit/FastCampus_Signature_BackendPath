@@ -44,6 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.CallByReference.executor": "Run",
+    "Application.CallByReferenceExam.executor": "Run",
     "Application.FindAPI.executor": "Run",
     "Application.FourArithmetic.executor": "Run",
     "Application.ObjectArrayExam.executor": "Run",
@@ -94,6 +96,7 @@
       <workItem from="1719996940036" duration="2356000" />
       <workItem from="1720095432629" duration="6148000" />
       <workItem from="1722844366030" duration="5000000" />
+      <workItem from="1722933975607" duration="2460000" />
     </task>
     <servers />
   </component>
