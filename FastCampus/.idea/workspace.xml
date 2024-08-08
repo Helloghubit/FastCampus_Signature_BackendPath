@@ -43,13 +43,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccessModifier.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CallByReference.executor": "Run",
     "Application.CallByReferenceExam.executor": "Run",
+    "Application.CarInsertTest.executor": "Run",
+    "Application.CarTest.executor": "Run",
     "Application.FindAPI.executor": "Run",
     "Application.FourArithmetic.executor": "Run",
     "Application.ObjectArrayExam.executor": "Run",
     "Application.Operator.executor": "Run",
+    "Application.PersonTest.executor": "Run",
     "Application.ScannerExam.executor": "Run",
     "Application.TwoDimArrayInit.executor": "Run",
     "Application.TwoDimArrayTest.executor": "Run",
@@ -97,6 +101,7 @@
       <workItem from="1720095432629" duration="6148000" />
       <workItem from="1722844366030" duration="5000000" />
       <workItem from="1722933975607" duration="2460000" />
+      <workItem from="1723022040825" duration="14443000" />
     </task>
     <servers />
   </component>
