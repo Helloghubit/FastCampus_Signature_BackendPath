@@ -44,17 +44,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccessModifier.executor": "Run",
+    "Application.BestVOModeling.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CallByReference.executor": "Run",
     "Application.CallByReferenceExam.executor": "Run",
     "Application.CarInsertTest.executor": "Run",
     "Application.CarTest.executor": "Run",
+    "Application.ConstructorInit.executor": "Run",
+    "Application.ConstructorOverloading.executor": "Run",
     "Application.FindAPI.executor": "Run",
     "Application.FourArithmetic.executor": "Run",
     "Application.ObjectArrayExam.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.PersonTest.executor": "Run",
     "Application.ScannerExam.executor": "Run",
+    "Application.ToStringPrint.executor": "Run",
     "Application.TwoDimArrayInit.executor": "Run",
     "Application.TwoDimArrayTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -102,6 +106,8 @@
       <workItem from="1722844366030" duration="5000000" />
       <workItem from="1722933975607" duration="2460000" />
       <workItem from="1723022040825" duration="14443000" />
+      <workItem from="1723109832291" duration="404000" />
+      <workItem from="1723535917828" duration="5043000" />
     </task>
     <servers />
   </component>
